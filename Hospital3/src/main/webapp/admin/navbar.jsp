@@ -25,7 +25,7 @@
 				<div class="dropdown">
 					<button class="btn btn-light dropdown-toggle" type="button"
 						id="dropdownMenuButton1" data-bs-toggle="dropdown"
-						aria-expanded="false">Doctor</button>
+						aria-expanded="false">Admin</button>
 					<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
 						<li><a class="dropdown-item" href="../adminLogout">Logout</a></li>
 					</ul>
